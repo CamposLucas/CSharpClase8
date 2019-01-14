@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServer", "SQLServer\SQLServer.csproj", "{84FDB6AF-281F-4C9F-A388-8B643D816669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{DE042F76-D237-48FF-A5D3-422FFC85B754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{93AD2944-2CCB-44EA-86F4-4FA220ED9360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FDB6AF-281F-4C9F-A388-8B643D816669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FDB6AF-281F-4C9F-A388-8B643D816669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FDB6AF-281F-4C9F-A388-8B643D816669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FDB6AF-281F-4C9F-A388-8B643D816669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE042F76-D237-48FF-A5D3-422FFC85B754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE042F76-D237-48FF-A5D3-422FFC85B754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE042F76-D237-48FF-A5D3-422FFC85B754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE042F76-D237-48FF-A5D3-422FFC85B754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AD2944-2CCB-44EA-86F4-4FA220ED9360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AD2944-2CCB-44EA-86F4-4FA220ED9360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AD2944-2CCB-44EA-86F4-4FA220ED9360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AD2944-2CCB-44EA-86F4-4FA220ED9360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E05CEC2-AFBC-4A98-8A39-616DCC94DAFA}
+	EndGlobalSection
+EndGlobal
