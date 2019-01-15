@@ -25,6 +25,7 @@ namespace AccesoDatos
                 editorial.nombre = lector["Nombre"].ToString();
                 listaRet.Add(editorial);
             }
+            lector.Close();
             return listaRet;
         }
         private SqlConnection conn;

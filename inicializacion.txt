@@ -79,3 +79,10 @@ GO
 
 
 select * from libros inner join editorial on editorial.editorial_id = libros.Editorial_ID
+
+para mostrar el nombre de la editorial lo busco asi:
+
+listaEdito.Find(edi => edi.id == "c4053dd1-1f98-4452-b513-7b4cb2d04bbc").nombre
+
+
+
